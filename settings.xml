@@ -2,7 +2,7 @@
   <servers>
     <server>
       <id>nexus</id>
-      <username></username> 
+      <username>admin</username> 
       <password>admin123</password> 
     </server>
   </servers>
